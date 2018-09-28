@@ -1,10 +1,15 @@
 # stencil-codecheats
-Code Snippets I found to write better code than if you do it from scratch yourself.
-Feel free to submit something if it's good practice!
+Code Snippets to write better code than if you do it from scratch yourself.
+Feel free to submit something if it's best practice!
+
+
+_Some of them come from the Slack group, credit goes to their respective writers._
 
 ---
 
 ### Check for used `<slot/>`s.
+
+[Casey](https://github.com/snaptopixel) You rock!
 
 ```typescript
 componentWillLoad() {
@@ -25,6 +30,8 @@ componentDidLoad() {
 ```
 
 ---
+
+### HTML Exposer
 
 [Mark](https://github.com/marksyzm) wrote an HTML exposer.
 Not sure for what it's maybe needed, but it looks like an valuable snippet.
